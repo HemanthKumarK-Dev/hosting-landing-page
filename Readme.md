@@ -1,6 +1,6 @@
 # Hosting Landing Page
 
-![Image](./images/11.png)
+![Image](./Images/11.png)
 
 Built With
 - Html
@@ -8,7 +8,8 @@ Built With
 
 Learnings
 - Used almost all the properties I learnt. Mainly I Learnt about using Cards
-- Learnt flex properties and grid properties   
+- Learnt flex properties and grid properties  
+
 Time Taken to complete
 - 9 hours
 
