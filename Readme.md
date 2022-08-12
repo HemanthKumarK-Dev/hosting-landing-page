@@ -1,6 +1,6 @@
 # Hosting Landing Page
 
-![Image](./Images/11.png)
+![Image](./11.png)
 
 Built With
 - Html
