@@ -178,10 +178,10 @@ nav{
     
 }
 .card{
-    margin-bottom: 30px;
-    padding-left: 15px;
-    padding-right: 10px;
-    padding-bottom: 30px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 10x;
     margin-left: 21px;
     background-color: white;
 }
@@ -609,7 +609,6 @@ footer h2{
     grid-template-columns: 1.5fr 1.5fr;
     margin-top: 110px;
     margin-left: 0px;
-    margin-right: 70px;
 }
 
 
@@ -620,16 +619,20 @@ footer h2{
 
 
 
-
 .section-6 {
     background-color: hsl(204, 100%, 62%);
     height: 100%;
+    width: 90%;
     display: none;
 }
 
 .section-7{
     margin-top: 10px;
     margin-left: 3px;
+}
+.card-feedbacks {
+    display: grid;
+    grid-template-columns: 1.5fr;
 }
 .content-feedback h2 {
     font-size: 20px;
