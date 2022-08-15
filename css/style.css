@@ -619,12 +619,7 @@ footer h2{
 }
 
 
-.section-6 h3 {
-    font-size: 20px;
-    text-align: center;
-    color: #fdfeff;
-    padding: 60px 0px;
-}
+
 
 .section-6 {
     background-color: hsl(204, 100%, 62%);
@@ -632,13 +627,62 @@ footer h2{
     display: none;
 }
 
-.price-card {
-    display: grid;
-    grid-template-columns: 1.5fr;
-    height: 380px;
-    margin-left: 100px;
-    margin-right: 70px;
+.section-7{
+    margin-top: 10px;
+    margin-left: 3px;
 }
+.content-feedback h2 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.content-feedback p {
+    text-align: center;
+    margin-top: 20px;
+    line-height: 24px;
+    padding-left: 0px;
+    padding-right: 0px;
+    color: rgb(114, 114, 114);
+    font-size: 12px;
+}
+
+.card-feedback p {
+    color: rgb(29, 26, 26);
+    padding-top: 20px;
+    padding-left:20px;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 12px;
+}
+
+.card-feedback {
+    background-color: #fff;
+    margin-left: 20px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    height: 35%;
+    border-radius: 10px;
+    box-shadow: 1px 10px 10px 10px rgb(124 122 122 / 10%);
+}
+.feedback-name {
+    margin-top: 15px;
+    font-size: 12px;
+    margin-left: 80px;
+    margin-bottom: 5px;
+}
+
+.circle {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(117, 117, 117);
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 5%;
+    bottom: 21%;
+}
+
 
 }
 
