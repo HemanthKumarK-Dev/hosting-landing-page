@@ -693,6 +693,36 @@ footer h2{
     margin-bottom: 30px;
 }
 
+.section-8{
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    width: 100vw;
+    height: 50vh;
+        margin-top: 30px;
+}
+    .section-8-left {
+    height: 388px;
+    margin-left: 20px;
+}
+.section-8-left h2 {
+    color: #fff;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 800;
+    margin-top: 10px;
+
+}
+.section-right button {
+
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.section-8-left p {
+    color: #fff;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
 
 }
 
