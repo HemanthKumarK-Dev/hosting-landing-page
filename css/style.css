@@ -659,9 +659,10 @@ footer h2{
 .card-feedback {
     background-color: #fff;
     margin-left: 20px;
-    margin-top: 60px;
+    margin-top: 20px;
     margin-bottom: 50px;
     height: 35%;
+    width: 90%;
     border-radius: 10px;
     box-shadow: 1px 10px 10px 10px rgb(124 122 122 / 10%);
 }
