@@ -697,11 +697,10 @@ footer h2{
     display: grid;
     grid-template-rows: repeat(2,1fr);
     width: 100vw;
-    height: 50vh;
-        margin-top: 30px;
+    height: 25vh;
+    margin-top: 30px;
 }
     .section-8-left {
-    height: 388px;
     margin-left: 20px;
 }
 .section-8-left h2 {
@@ -721,6 +720,48 @@ footer h2{
     color: #fff;
     margin-top: 10px;
     font-size: 12px;
+}
+
+footer{
+        margin-top: 20px;
+        margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer li{
+    list-style: none;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #797979;
+}
+
+
+.description img{
+    height: 30px;
+}
+
+.menu{
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 4px;
+    margin-bottom: 10px;
+}
+.links{
+
+    margin-right: 90px;
+    margin-left: 4px;
+      margin-bottom: 10px;
+}
+
+.overview{
+      margin-left: 4px;
+      margin-bottom: 10px;
+}
+.social-list img{
+    margin-top: 10px;
+    height: 30px;
+    margin-left: 15px;
 }
 
 
